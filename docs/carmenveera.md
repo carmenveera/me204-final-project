@@ -10,19 +10,19 @@ We tend to assume that popular movies are popular *because* audiences love them 
 
 <iframe src="charts/finding1_average_popularity_by_genre.html" width="100%" height="450" style="border:none;"></iframe>
 
-Science Fiction (17.50) and Adventure (15.65) top the popularity rankings by a wide margin, with Action (13.74) and Fantasy (13.67) close behind in third and fourth place. Drama sits near the bottom at 8.11, despite being the single most common genre in the dataset (2,864 films). Only Documentary ranks lower, at 5.58. That's the first surprise: the genre made most often isn't the genre audiences pay the most attention to. This raises an obvious question — is that attention going to the genres audiences rate *best*, or just the ones that catch their eye?
+Science Fiction (17.48) and Adventure (15.64) top the popularity rankings by a wide margin, with Action (13.75) and Fantasy (13.67) close behind in third and fourth place. Drama sits near the bottom at 8.1, despite being the single most common genre in the dataset (2,865 films). Only Documentary ranks lower, at 5.57. That's the first surprise: the genre made most often isn't the genre audiences pay the most attention to. This raises an obvious question — is that attention going to the genres audiences rate *best*, or just the ones that catch their eye?
 
 ## The answer: popularity and audience rating are largely separate conversations
 
 <iframe src="charts/finding2_popularityvsvote_by_decade.html" width="100%" height="450" style="border:none;"></iframe>
 
-They're not the same thing. Animation has the highest average audience rating of any genre (7.18), despite ranking only fifth on popularity — Documentary (7.16) and Music (7.15) follow close behind, and neither is a genre that draws much attention. Science Fiction (6.67) and Adventure (6.77) — the two most *popular* genres — sit around the middle of the rating range, not near the top. The clearest mismatch is Horror: fairly popular (10.31), but the lowest-rated genre in the entire dataset (6.33). Drama, the most frequent genre, rates only around the average too, at 6.77. If popularity tracked how audiences rate films, these rankings would line up. They don't.
+They're not the same thing. Animation has the highest average audience rating of any genre (7.17), despite ranking only fifth on popularity — Documentary (7.15) and Music (7.14) follow close behind, and neither is a genre that draws much attention. Science Fiction (6.66) and Adventure (6.76) — the two most *popular* genres — sit around the middle of the rating range, not near the top. The clearest mismatch is Horror: fairly popular (10.31), but the lowest-rated genre in the entire dataset (6.32). Drama, the most frequent genre, rates only around the average too, at 6.76. If popularity tracked how audiences rate films, these rankings would line up. They don't.
 
 ## And that gap helps explain a real shift happening across the industry
 
 <iframe src="charts/finding3_genre_share_by_decade.html" width="100%" height="450" style="border:none;"></iframe>
 
-Put the two patterns together and a five-decade trend comes into focus. Drama's share of top films has fallen from 40.5% in the 1970s to 27.1% today — a genre that draws comparatively little popularity. Meanwhile, Action (10.5% → 17.4%) and Thriller (11.6% → 17.9%) — genres that lean toward popularity over rating — have both grown by roughly two-thirds their share of top films over the same period. Comedy has drifted down slightly too (19.8% → 18.1%), while Adventure and Romance have stayed fairly flat.
+Put the two patterns together and a five-decade trend comes into focus. Drama's share of top films has fallen from 40.5% in the 1970s to 27.03% today — a genre that draws comparatively little popularity. Meanwhile, Action (10.48% → 17.42%) and Thriller (11.61% → 17.91%) — genres that lean toward popularity over rating — have both grown by roughly two-thirds their share of top films over the same period. Comedy has drifted down slightly too (19.83% → 18.14%), while Adventure and Romance have stayed fairly flat.
 
 ## What this means
 

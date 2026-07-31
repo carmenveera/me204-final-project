@@ -497,52 +497,52 @@ genre_ids,id,title,original_language,popularity,release_date,vote_average,vote_c
 28,122917,The Hobbit: The Battle of the Five Armies,en,31.0293,2014-12-10,7.3,15534,2014.0,2010,Action
 12,122917,The Hobbit: The Battle of the Five Armies,en,31.0293,2014-12-10,7.3,15534,2014.0,2010,Adventure
 14,122917,The Hobbit: The Battle of the Five Armies,en,31.0293,2014-12-10,7.3,15534,2014.0,2010,Fantasy
-53,1054867,One Battle After Another,en,28.6336,2025-09-23,7.345,3971,2025.0,2020,Thriller
-80,1054867,One Battle After Another,en,28.6336,2025-09-23,7.345,3971,2025.0,2020,Crime
-35,1054867,One Battle After Another,en,28.6336,2025-09-23,7.345,3971,2025.0,2020,Comedy
-12,673,Harry Potter and the Prisoner of Azkaban,en,30.0866,2004-05-31,8.01,23378,2004.0,2000,Adventure
-14,673,Harry Potter and the Prisoner of Azkaban,en,30.0866,2004-05-31,8.01,23378,2004.0,2000,Fantasy
-10749,950396,The Gorge,en,30.4847,2025-02-13,7.678,3990,2025.0,2020,Romance
-878,950396,The Gorge,en,30.4847,2025-02-13,7.678,3990,2025.0,2020,Science Fiction
-53,950396,The Gorge,en,30.4847,2025-02-13,7.678,3990,2025.0,2020,Thriller
-28,49026,The Dark Knight Rises,en,29.7118,2012-07-17,7.796,24608,2012.0,2010,Action
-80,49026,The Dark Knight Rises,en,29.7118,2012-07-17,7.796,24608,2012.0,2010,Crime
-18,49026,The Dark Knight Rises,en,29.7118,2012-07-17,7.796,24608,2012.0,2010,Drama
-53,49026,The Dark Knight Rises,en,29.7118,2012-07-17,7.796,24608,2012.0,2010,Thriller
+18,77338,The Intouchables,fr,28.3163,2011-11-02,8.273,18621,2011.0,2010,Drama
+35,77338,The Intouchables,fr,28.3163,2011-11-02,8.273,18621,2011.0,2010,Comedy
+28,1613798,Vengeance,es,27.4582,2026-02-26,7.524,286,2026.0,2020,Action
+53,1613798,Vengeance,es,27.4582,2026-02-26,7.524,286,2026.0,2020,Thriller
+53,1054867,One Battle After Another,en,28.6336,2025-09-23,7.346,3972,2025.0,2020,Thriller
+80,1054867,One Battle After Another,en,28.6336,2025-09-23,7.346,3972,2025.0,2020,Crime
+35,1054867,One Battle After Another,en,28.6336,2025-09-23,7.346,3972,2025.0,2020,Comedy
+12,673,Harry Potter and the Prisoner of Azkaban,en,30.0866,2004-05-31,8.01,23379,2004.0,2000,Adventure
+14,673,Harry Potter and the Prisoner of Azkaban,en,30.0866,2004-05-31,8.01,23379,2004.0,2000,Fantasy
+10749,950396,The Gorge,en,30.4847,2025-02-13,7.678,3992,2025.0,2020,Romance
+878,950396,The Gorge,en,30.4847,2025-02-13,7.678,3992,2025.0,2020,Science Fiction
+53,950396,The Gorge,en,30.4847,2025-02-13,7.678,3992,2025.0,2020,Thriller
+28,49026,The Dark Knight Rises,en,29.7118,2012-07-17,7.796,24609,2012.0,2010,Action
+80,49026,The Dark Knight Rises,en,29.7118,2012-07-17,7.796,24609,2012.0,2010,Crime
+18,49026,The Dark Knight Rises,en,29.7118,2012-07-17,7.796,24609,2012.0,2010,Drama
+53,49026,The Dark Knight Rises,en,29.7118,2012-07-17,7.796,24609,2012.0,2010,Thriller
 10749,1620682,Love in Slow Motion,ar,25.5005,2026-07-23,5.167,6,2026.0,2020,Romance
 35,1620682,Love in Slow Motion,ar,25.5005,2026-07-23,5.167,6,2026.0,2020,Comedy
 18,489,Good Will Hunting,en,30.9655,1997-12-05,8.163,14052,1997.0,1990,Drama
-80,101,Léon: The Professional,fr,29.644,1994-09-14,8.294,16284,1994.0,1990,Crime
-18,101,Léon: The Professional,fr,29.644,1994-09-14,8.294,16284,1994.0,1990,Drama
-28,101,Léon: The Professional,fr,29.644,1994-09-14,8.294,16284,1994.0,1990,Action
+80,101,Léon: The Professional,fr,29.644,1994-09-14,8.294,16285,1994.0,1990,Crime
+18,101,Léon: The Professional,fr,29.644,1994-09-14,8.294,16285,1994.0,1990,Drama
+28,101,Léon: The Professional,fr,29.644,1994-09-14,8.294,16285,1994.0,1990,Action
 16,2062,Ratatouille,en,30.0621,2007-06-28,7.845,18689,2007.0,2000,Animation
 35,2062,Ratatouille,en,30.0621,2007-06-28,7.845,18689,2007.0,2000,Comedy
 10751,2062,Ratatouille,en,30.0621,2007-06-28,7.845,18689,2007.0,2000,Family
 14,2062,Ratatouille,en,30.0621,2007-06-28,7.845,18689,2007.0,2000,Fantasy
 28,1541560,Stop! That! Train!,en,27.2725,2026-06-12,5.136,33,2026.0,2020,Action
 35,1541560,Stop! That! Train!,en,27.2725,2026-06-12,5.136,33,2026.0,2020,Comedy
-16,863,Toy Story 2,en,30.5488,1999-10-30,7.618,15136,1999.0,1990,Animation
-35,863,Toy Story 2,en,30.5488,1999-10-30,7.618,15136,1999.0,1990,Comedy
-10751,863,Toy Story 2,en,30.5488,1999-10-30,7.618,15136,1999.0,1990,Family
+16,863,Toy Story 2,en,30.5488,1999-10-30,7.6,15136,1999.0,1990,Animation
+35,863,Toy Story 2,en,30.5488,1999-10-30,7.6,15136,1999.0,1990,Comedy
+10751,863,Toy Story 2,en,30.5488,1999-10-30,7.6,15136,1999.0,1990,Family
 10749,1468683,Heartstopper Forever,en,27.7606,2026-07-14,7.302,189,2026.0,2020,Romance
 18,1468683,Heartstopper Forever,en,27.7606,2026-07-14,7.302,189,2026.0,2020,Drama
 ,943315,Taste of shellfish,ko,26.9509,2021-11-21,4.0,1,2021.0,2020,
-18,244786,Whiplash,en,30.6858,2014-10-10,8.375,16849,2014.0,2010,Drama
-10402,244786,Whiplash,en,30.6858,2014-10-10,8.375,16849,2014.0,2010,Music
-53,244786,Whiplash,en,30.6858,2014-10-10,8.375,16849,2014.0,2010,Thriller
+18,244786,Whiplash,en,30.6858,2014-10-10,8.375,16850,2014.0,2010,Drama
+10402,244786,Whiplash,en,30.6858,2014-10-10,8.375,16850,2014.0,2010,Music
+53,244786,Whiplash,en,30.6858,2014-10-10,8.375,16850,2014.0,2010,Thriller
 27,1321491,The Banished,en,26.2965,2025-07-18,4.81,21,2025.0,2020,Horror
 10749,1156594,Our Fault,es,29.0462,2025-10-15,7.39,720,2025.0,2020,Romance
 18,1156594,Our Fault,es,29.0462,2025-10-15,7.39,720,2025.0,2020,Drama
 28,1306368,The Rip,en,30.9175,2026-01-13,7.084,1791,2026.0,2020,Action
 53,1306368,The Rip,en,30.9175,2026-01-13,7.084,1791,2026.0,2020,Thriller
 80,1306368,The Rip,en,30.9175,2026-01-13,7.084,1791,2026.0,2020,Crime
-16,10193,Toy Story 3,en,28.6531,2010-06-16,7.813,15979,2010.0,2010,Animation
-10751,10193,Toy Story 3,en,28.6531,2010-06-16,7.813,15979,2010.0,2010,Family
-35,10193,Toy Story 3,en,28.6531,2010-06-16,7.813,15979,2010.0,2010,Comedy
-12,105,Back to the Future,en,30.3691,1985-07-03,8.327,22058,1985.0,1980,Adventure
-35,105,Back to the Future,en,30.3691,1985-07-03,8.327,22058,1985.0,1980,Comedy
-878,105,Back to the Future,en,30.3691,1985-07-03,8.327,22058,1985.0,1980,Science Fiction
-27,1645603,Night of the Living Dead,en,26.344,2026-07-03,5.03,67,2026.0,2020,Horror
+16,10193,Toy Story 3,en,28.6531,2010-06-16,7.8,15979,2010.0,2010,Animation
+10751,10193,Toy Story 3,en,28.6531,2010-06-16,7.8,15979,2010.0,2010,Family
+35,10193,Toy Story 3,en,28.6531,2010-06-16,7.8,15979,2010.0,2010,Comedy
 28,744,Top Gun,en,30.3827,1986-05-16,7.071,9719,1986.0,1980,Action
 18,744,Top Gun,en,30.3827,1986-05-16,7.071,9719,1986.0,1980,Drama
 10749,744,Top Gun,en,30.3827,1986-05-16,7.071,9719,1986.0,1980,Romance
@@ -2080,6 +2080,9 @@ genre_ids,id,title,original_language,popularity,release_date,vote_average,vote_c
 27,423108,The Conjuring: The Devil Made Me Do It,en,13.9574,2021-05-25,7.3,6622,2021.0,2020,Horror
 9648,423108,The Conjuring: The Devil Made Me Do It,en,13.9574,2021-05-25,7.3,6622,2021.0,2020,Mystery
 53,423108,The Conjuring: The Devil Made Me Do It,en,13.9574,2021-05-25,7.3,6622,2021.0,2020,Thriller
+35,1035259,The Naked Gun,en,13.6652,2025-07-30,6.371,1860,2025.0,2020,Comedy
+80,1035259,The Naked Gun,en,13.6652,2025-07-30,6.371,1860,2025.0,2020,Crime
+28,1035259,The Naked Gun,en,13.6652,2025-07-30,6.371,1860,2025.0,2020,Action
 53,1426776,STRAW,en,13.874,2025-06-05,7.697,987,2025.0,2020,Thriller
 18,1426776,STRAW,en,13.874,2025-06-05,7.697,987,2025.0,2020,Drama
 80,1426776,STRAW,en,13.874,2025-06-05,7.697,987,2025.0,2020,Crime
@@ -2090,9 +2093,6 @@ genre_ids,id,title,original_language,popularity,release_date,vote_average,vote_c
 10749,1580803,Susana and Elvira: No Plan B,es,12.3614,2026-05-28,6.1,7,2026.0,2020,Romance
 35,1580803,Susana and Elvira: No Plan B,es,12.3614,2026-05-28,6.1,7,2026.0,2020,Comedy
 18,1580803,Susana and Elvira: No Plan B,es,12.3614,2026-05-28,6.1,7,2026.0,2020,Drama
-28,1458215,The Gentleman Thief,en,19.1873,2026-07-31,6.5,7,2026.0,2020,Action
-80,1458215,The Gentleman Thief,en,19.1873,2026-07-31,6.5,7,2026.0,2020,Crime
-53,1458215,The Gentleman Thief,en,19.1873,2026-07-31,6.5,7,2026.0,2020,Thriller
 878,373571,Godzilla: King of the Monsters,en,13.7288,2019-05-29,6.69,6796,2019.0,2010,Science Fiction
 28,373571,Godzilla: King of the Monsters,en,13.7288,2019-05-29,6.69,6796,2019.0,2010,Action
 28,137113,Edge of Tomorrow,en,13.624,2014-05-27,7.642,15266,2014.0,2010,Action
@@ -2114,9 +2114,9 @@ genre_ids,id,title,original_language,popularity,release_date,vote_average,vote_c
 10751,447277,The Little Mermaid,en,12.3907,2023-05-18,6.266,3359,2023.0,2020,Family
 14,447277,The Little Mermaid,en,12.3907,2023-05-18,6.266,3359,2023.0,2020,Fantasy
 10749,447277,The Little Mermaid,en,12.3907,2023-05-18,6.266,3359,2023.0,2020,Romance
-14,561,Constantine,en,14.1761,2005-02-08,7.188,8333,2005.0,2000,Fantasy
-28,561,Constantine,en,14.1761,2005-02-08,7.188,8333,2005.0,2000,Action
-27,561,Constantine,en,14.1761,2005-02-08,7.188,8333,2005.0,2000,Horror
+14,561,Constantine,en,14.1761,2005-02-08,7.188,8334,2005.0,2000,Fantasy
+28,561,Constantine,en,14.1761,2005-02-08,7.188,8334,2005.0,2000,Action
+27,561,Constantine,en,14.1761,2005-02-08,7.188,8334,2005.0,2000,Horror
 35,4248,Scary Movie 2,en,13.9943,2001-07-04,5.845,5302,2001.0,2000,Comedy
 12,254,King Kong,en,14.1506,2005-12-12,6.895,8588,2005.0,2000,Adventure
 18,254,King Kong,en,14.1506,2005-12-12,6.895,8588,2005.0,2000,Drama
@@ -2131,8 +2131,6 @@ genre_ids,id,title,original_language,popularity,release_date,vote_average,vote_c
 37,44896,Rango,en,13.2344,2011-03-02,6.913,7210,2011.0,2010,Western
 12,44896,Rango,en,13.2344,2011-03-02,6.913,7210,2011.0,2010,Adventure
 35,1522333,Carry On Jatta 4,pa,13.4958,2026-06-26,8.0,1,2026.0,2020,Comedy
-18,11216,Cinema Paradiso,it,15.4381,1988-11-17,8.43,4898,1988.0,1980,Drama
-10749,11216,Cinema Paradiso,it,15.4381,1988-11-17,8.43,4898,1988.0,1980,Romance
 18,1124566,Sentimental Value,no,13.9719,2025-08-20,7.446,997,2025.0,2020,Drama
 878,8077,Alien³,en,13.1921,1992-05-22,6.389,6456,1992.0,1990,Science Fiction
 28,8077,Alien³,en,13.1921,1992-05-22,6.389,6456,1992.0,1990,Action
@@ -7583,6 +7581,12 @@ genre_ids,id,title,original_language,popularity,release_date,vote_average,vote_c
 9648,223,Rebecca,en,6.5034,1940-03-23,7.883,2003,1940.0,1940,Mystery
 10749,223,Rebecca,en,6.5034,1940-03-23,7.883,2003,1940.0,1940,Romance
 18,223,Rebecca,en,6.5034,1940-03-23,7.883,2003,1940.0,1940,Drama
+53,1659087,180,en,6.343,2026-04-16,5.799,134,2026.0,2020,Thriller
+80,1659087,180,en,6.343,2026-04-16,5.799,134,2026.0,2020,Crime
+18,1659087,180,en,6.343,2026-04-16,5.799,134,2026.0,2020,Drama
+10770,1659087,180,en,6.343,2026-04-16,5.799,134,2026.0,2020,TV Movie
+27,1029281,Strange Darling,en,7.3469,2024-08-14,6.895,975,2024.0,2020,Horror
+53,1029281,Strange Darling,en,7.3469,2024-08-14,6.895,975,2024.0,2020,Thriller
 14,888,The Flintstones,en,7.036,1994-05-27,5.378,2647,1994.0,1990,Fantasy
 35,888,The Flintstones,en,7.036,1994-05-27,5.378,2647,1994.0,1990,Comedy
 10751,888,The Flintstones,en,7.036,1994-05-27,5.378,2647,1994.0,1990,Family
@@ -7608,16 +7612,6 @@ genre_ids,id,title,original_language,popularity,release_date,vote_average,vote_c
 12,845111,The Three Musketeers: Milady,fr,6.1915,2023-12-13,6.397,843,2023.0,2020,Adventure
 28,845111,The Three Musketeers: Milady,fr,6.1915,2023-12-13,6.397,843,2023.0,2020,Action
 18,845111,The Three Musketeers: Milady,fr,6.1915,2023-12-13,6.397,843,2023.0,2020,Drama
-37,12106,The Quick and the Dead,en,6.7289,1995-02-09,6.542,1994,1995.0,1990,Western
-28,12106,The Quick and the Dead,en,6.7289,1995-02-09,6.542,1994,1995.0,1990,Action
-18,12106,The Quick and the Dead,en,6.7289,1995-02-09,6.542,1994,1995.0,1990,Drama
-53,12106,The Quick and the Dead,en,6.7289,1995-02-09,6.542,1994,1995.0,1990,Thriller
-28,1535,Spy Game,en,6.7776,2001-11-18,6.921,2397,2001.0,2000,Action
-80,1535,Spy Game,en,6.7776,2001-11-18,6.921,2397,2001.0,2000,Crime
-53,1535,Spy Game,en,6.7776,2001-11-18,6.921,2397,2001.0,2000,Thriller
-35,13485,Holiday Inn,en,6.5568,1942-07-10,7.024,227,1942.0,1940,Comedy
-18,13485,Holiday Inn,en,6.5568,1942-07-10,7.024,227,1942.0,1940,Drama
-10749,13485,Holiday Inn,en,6.5568,1942-07-10,7.024,227,1942.0,1940,Romance
 28,507241,The Killer's Game,en,6.0637,2024-09-12,6.4,570,2024.0,2020,Action
 35,507241,The Killer's Game,en,6.0637,2024-09-12,6.4,570,2024.0,2020,Comedy
 53,507241,The Killer's Game,en,6.0637,2024-09-12,6.4,570,2024.0,2020,Thriller
@@ -9891,9 +9885,9 @@ genre_ids,id,title,original_language,popularity,release_date,vote_average,vote_c
 53,2207,16 Blocks,en,5.7722,2006-03-01,6.458,2136,2006.0,2000,Thriller
 18,263647,Needhikku Thalaivanangu,ta,5.1242,1976-03-17,9.0,1,1976.0,1970,Drama
 18,1630,The People vs. Larry Flynt,en,5.4918,1996-12-25,6.96,1274,1996.0,1990,Drama
-18,192,The Name of the Rose,en,5.8911,1986-09-24,7.5,3352,1986.0,1980,Drama
-53,192,The Name of the Rose,en,5.8911,1986-09-24,7.5,3352,1986.0,1980,Thriller
-9648,192,The Name of the Rose,en,5.8911,1986-09-24,7.5,3352,1986.0,1980,Mystery
+18,192,The Name of the Rose,en,5.8911,1986-09-24,7.496,3352,1986.0,1980,Drama
+53,192,The Name of the Rose,en,5.8911,1986-09-24,7.496,3352,1986.0,1980,Thriller
+9648,192,The Name of the Rose,en,5.8911,1986-09-24,7.496,3352,1986.0,1980,Mystery
 27,1378068,Show,en,5.9653,2024-10-27,10.0,1,2024.0,2020,Horror
 10749,1290182,You Are the Apple of My Eye,ko,5.2619,2025-02-21,8.4,70,2025.0,2020,Romance
 18,1290182,You Are the Apple of My Eye,ko,5.2619,2025-02-21,8.4,70,2025.0,2020,Drama
@@ -9903,8 +9897,8 @@ genre_ids,id,title,original_language,popularity,release_date,vote_average,vote_c
 80,798362,The Marsh King's Daughter,en,5.4636,2023-09-28,6.4,411,2023.0,2020,Crime
 9648,798362,The Marsh King's Daughter,en,5.4636,2023-09-28,6.4,411,2023.0,2020,Mystery
 99,442567,Selection,hu,6.5718,1970-02-19,8.0,2,1970.0,1970,Documentary
-878,8974,The War of the Worlds,en,6.253,1953-04-03,6.805,715,1953.0,1950,Science Fiction
-28,8974,The War of the Worlds,en,6.253,1953-04-03,6.805,715,1953.0,1950,Action
+878,8974,The War of the Worlds,en,6.253,1953-04-03,6.805,716,1953.0,1950,Science Fiction
+28,8974,The War of the Worlds,en,6.253,1953-04-03,6.805,716,1953.0,1950,Action
 35,11113,My Fair Lady,en,5.0756,1964-12-01,7.495,1447,1964.0,1960,Comedy
 10749,11113,My Fair Lady,en,5.0756,1964-12-01,7.495,1447,1964.0,1960,Romance
 35,53168,King of Comedy,cn,5.6251,1999-02-08,7.367,214,1999.0,1990,Comedy
@@ -13519,6 +13513,9 @@ genre_ids,id,title,original_language,popularity,release_date,vote_average,vote_c
 53,9691,Assassins,en,4.1097,1995-10-06,6.497,1737,1995.0,1990,Thriller
 35,11041,The Beverly Hillbillies,en,4.7888,1993-10-15,6.317,603,1993.0,1990,Comedy
 10751,11041,The Beverly Hillbillies,en,4.7888,1993-10-15,6.317,603,1993.0,1990,Family
+18,13920,Radio,en,5.0022,2003-10-24,7.325,865,2003.0,2000,Drama
+18,288618,Atlántida,es,4.7193,2014-10-02,5.667,12,2014.0,2010,Drama
+27,14564,Rings,en,4.3258,2017-02-01,5.0,2636,2017.0,2010,Horror
 35,52212,Miranda,it,5.5769,1985-10-15,5.1,117,1985.0,1980,Comedy
 10749,52212,Miranda,it,5.5769,1985-10-15,5.1,117,1985.0,1980,Romance
 80,7457,Alpha Dog,en,5.0811,2006-01-27,6.653,1537,2006.0,2000,Crime
@@ -13538,9 +13535,9 @@ genre_ids,id,title,original_language,popularity,release_date,vote_average,vote_c
 80,420070,A Man in a Green Kimono,ru,4.9936,1992-02-11,9.0,2,1992.0,1990,Crime
 18,2288,Closer,en,5.2145,2004-12-03,6.831,3772,2004.0,2000,Drama
 10749,2288,Closer,en,5.2145,2004-12-03,6.831,3772,2004.0,2000,Romance
-27,643586,Willy's Wonderland,en,4.6881,2021-02-12,5.981,1169,2021.0,2020,Horror
-53,643586,Willy's Wonderland,en,4.6881,2021-02-12,5.981,1169,2021.0,2020,Thriller
-28,643586,Willy's Wonderland,en,4.6881,2021-02-12,5.981,1169,2021.0,2020,Action
+27,643586,Willy's Wonderland,en,4.6881,2021-02-12,5.983,1170,2021.0,2020,Horror
+53,643586,Willy's Wonderland,en,4.6881,2021-02-12,5.983,1170,2021.0,2020,Thriller
+28,643586,Willy's Wonderland,en,4.6881,2021-02-12,5.983,1170,2021.0,2020,Action
 28,1331375,Dominique,en,4.6567,2024-10-11,6.681,185,2024.0,2020,Action
 53,1331375,Dominique,en,4.6567,2024-10-11,6.681,185,2024.0,2020,Thriller
 10402,504608,Rocketman,en,4.9971,2019-05-17,7.312,5034,2019.0,2010,Music
